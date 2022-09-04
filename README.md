@@ -27,7 +27,7 @@ ___
 <img src="https://img.shields.io/badge/Kakao Work-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white"/>  
 ### :hatching_chick: Growing steadily :) :seedling:
 
-#
+___
 
 </div>
 
