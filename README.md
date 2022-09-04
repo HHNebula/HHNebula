@@ -18,7 +18,7 @@ ___
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HHNebula&theme=dark&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HHNebula&theme=white&show_icons=true">
 
 #### Cowork Tool :hammer_and_wrench:
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
