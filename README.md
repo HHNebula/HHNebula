@@ -33,6 +33,6 @@ ___
 
 <div align="center">
 
-<a href="https://velog.io/@hh_nebula"><img src="https://img.shields.io/badge/Go to Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@hh_nebula"><img src="https://img.shields.io/badge/Go to Velog-20C997?style=flat-square&logo=Velog&logoColor=dark"/></a>
 
 </div>
