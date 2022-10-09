@@ -24,7 +24,7 @@ ___
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Zeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Kakao Work-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Kakao Work-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white"/> <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat-square&logo=Atlassian&logoColor=white"/>  
 ### :hatching_chick: Growing steadily :) :seedling:
 
 ___
