@@ -33,7 +33,8 @@ ___
 
 <div align="center">
 
-<a href="https://velog.io/@hh_nebula"><img src="https://img.shields.io/badge/Go to Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHHNebula&count_bg=%23606060&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+<a href="https://velog.io/@hh_nebula"><img src="https://img.shields.io/badge/Go to Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHHNebula&count_bg=%23606060&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
+
+<img src = "https://mblogthumb-phinf.pstatic.net/MjAyMDA0MjJfMjkz/MDAxNTg3NTM0NDg4MjYy.Y1qtxZsZHFb7K0mUYCBSlYXDeeNrEvy5arabf1vzefMg.n6lCRbtVy_z5GqFe0vPGUjF_-NrycUUAK5wONEQwMJMg.GIF.yubini99/3.gif?type=w800">
 
 </div>
